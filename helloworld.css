@@ -1,0 +1,36 @@
+h1 {
+    font-family: "Gill Sans", sans-serif;
+}
+
+button {
+    background-color: aqua;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid;
+    padding: 0 8px 0px 8px;
+  }
+  
+img {
+    width: 400px;
+    height: auto;
+  }
+  
+button:hover {
+    background-color: #B7B7B7;
+    color: #FFFFFF;
+}
+  
+.hidden {
+    display: none;
+}
+  
+.showing {
+    display: block;
+    font-family: "Gill Sans", sans-serif;
+    background-color: #D3D3E1;
+    width: 500px;
+    padding: 10px;
+    margin-top: 5px;
+    max-width: 400px;
+}
